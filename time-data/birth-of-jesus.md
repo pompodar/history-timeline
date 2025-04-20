@@ -1,0 +1,8 @@
+---
+title: Birth and Teachings of Jesus
+period: 0
+period_details: c. 4 BC - 30 AD
+category: Religion
+source: The New Testament: A Historical Introduction - Bart D. Ehrman
+---
+Jesus of Nazareth's birth, life, and teachings in Roman-occupied Judea initiated a religious movement that evolved into Christianity, the world's largest religion with approximately 2.4 billion adherents today. Born in Bethlehem to Jewish parents, Jesus preached a message emphasizing love, forgiveness, moral reform, and the imminent Kingdom of God. His ethical teachings, including the Sermon on the Mount, challenged existing religious and social conventions while emphasizing compassion for the marginalized. His ministry featured healing accounts, parables, and challenges to religious authorities. According to Christian tradition, Jesus was crucified by Roman authorities around 30 CE and subsequently resurrected, an event that became the cornerstone of Christian faith. His followers, initially a Jewish sect, eventually spread his message throughout the Roman Empire and beyond. Christianity's eventual adoption as Rome's state religion transformed it from a persecuted minority faith to a dominant cultural and political force that shaped Western civilization's development for the next two millennia. Jesus's teachings profoundly influenced concepts of ethics, social justice, human rights, and political thought. Beyond Christianity, Jesus is recognized as an important prophet in Islam and remains a significant figure in global historical consciousness. His emphasis on love, forgiveness, and human dignity continues to resonate across cultural and religious boundaries, making his birth one of history's most consequential events. 

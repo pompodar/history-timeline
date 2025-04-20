@@ -1,0 +1,8 @@
+---
+title: Teachings of Confucius
+period: -551
+period_details: 551-479 BC
+category: Philosophy
+source: Confucianism: An Introduction - Ronnie L. Littlejohn
+---
+Confucius (551-479 BCE), born during China's Spring and Autumn Period of political fragmentation, developed a philosophical and ethical system that would profoundly shape East Asian civilization for over two millennia. Responding to societal disorder, Confucius advocated restoring social harmony through moral cultivation, proper relationships, and ritual propriety. His teachings, compiled by disciples in the Analects, emphasized virtues including ren (benevolence/humaneness), yi (righteousness), li (ritual propriety), zhi (wisdom), and xin (trustworthiness). Confucius promoted the concept of junzi (the superior person) who cultivates virtue rather than pursuing wealth or power, and established the revolutionary idea that leadership positions should be based on moral and intellectual merit rather than hereditary status. After his death, Confucian philosophy became the foundation of Chinese imperial education and government service examinations, creating a meritocratic system that lasted until 1905. Beyond China, Confucian thought significantly influenced the development of Korea, Japan, and Vietnam, establishing cultural patterns and social values that continue to shape these societies today. As one of history's most influential philosophical traditions, Confucianism remains central to understanding East Asian culture, politics, and social structures. 

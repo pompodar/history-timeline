@@ -1,0 +1,8 @@
+---
+title: Rise of Athenian Democracy
+period: -508
+period_details: 508-322 BC
+category: Political Systems
+source: The Rise and Fall of Classical Greece - Josiah Ober
+---
+The rise of democracy in Athens represents a watershed moment in political history. Following Cleisthenes' reforms in 508 BCE, Athens developed the world's first democratic system of government, where citizens (free adult males) directly participated in legislative and judicial functions through the ekklesia (assembly) and dikasteria (courts). This radical experiment shifted political power from aristocratic families to a broader citizen base and introduced concepts such as isonomia (equality before the law) and isegoria (equal right to speak in the assembly). During the 5th century BCE, under leaders like Pericles, Athens experienced its Golden Age, producing unprecedented achievements in philosophy, drama, architecture, sculpture, and science while maintaining naval supremacy in the Aegean. Though Athenian democracy had significant limitations—excluding women, slaves, and foreign residents—it established fundamental principles of citizen participation, deliberative decision-making, and constitutional governance that continue to influence modern democratic systems worldwide. Athens demonstrated that collective governance by citizens could create not only political stability but also cultural and intellectual flourishing. 

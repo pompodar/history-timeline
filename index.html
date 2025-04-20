@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet"><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,10 +10,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    
     <style>
         /* Custom Base Styles */
         body {
-            font-family: 'Inter', sans-serif;
+             font-family: "Indie Flower", cursive;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 1.3rem;
             background-color: #f0f4f8; /* Light background */
         }
 
@@ -48,7 +54,7 @@
             overflow: hidden;
             transition: max-height 0.5s ease-out, margin-top 0.5s ease-out;
             margin-top: 0;
-            font-size: 0.9rem;
+            font-size: 1.2rem;
             color: #4b5563; /* Tailwind gray-600 */
         }
         .timeline-detail.active {
@@ -635,11 +641,11 @@ function parseDetailMarkdown(detailText) {
                 timelineContent.setAttribute('data-detail-id', `detail-${index}`); // Add data-detail-id here
 
                 const timelineTitle = document.createElement('h3');
-                timelineTitle.classList.add('mb-1', 'font-semibold', 'text-lg', 'text-yellow-600');
+                timelineTitle.classList.add('mb-1', 'font-semibold', 'text-xlg', 'text-yellow-600');
                 timelineTitle.textContent = item.title;
 
                 const timelinePeriod = document.createElement('p');
-                timelinePeriod.classList.add('text-sm', 'font-medium', 'text-gray-500');
+                timelinePeriod.classList.add('text-lg', 'font-medium', 'text-gray-500');
                 timelinePeriod.textContent = item.period_details ? item.period_details : item.period;
 
                 const timelineDetail = document.createElement('div');
@@ -648,7 +654,7 @@ function parseDetailMarkdown(detailText) {
 
                 const timelineSource = document.createElement('p');
                 timelineSource.classList.add('timeline-source');
-                timelineSource.textContent = `Source: ${item.source}`;
+                timelineSource.textContent = `${item.source}`;
 
                 timelineContent.appendChild(timelineTitle);
                 timelineContent.appendChild(timelinePeriod);

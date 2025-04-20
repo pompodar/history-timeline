@@ -1,7 +1,7 @@
 ---
 title: The Call of Abraham
 period: -2200
-period_details: 2200-1700 BC
+period_details: 2,200-1,700 BC
 category: Ancient Israel
 source: Ancient Israel to the Fall of the Second Century - John Rogeron in Handbook of Ancient Religions
 ---

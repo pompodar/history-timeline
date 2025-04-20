@@ -1,7 +1,7 @@
 ---
 title: Creation of the Universe
 period: -5509
-period_details: 5509-3761 BC
+period_details: 5,509-3,761 BC
 category: Ancient Israel
 tags: Israel, Judaism, Jews
 source: Ancient Israel to the Fall of the Second Century - John Rogeron in Handbook of Ancient Religions

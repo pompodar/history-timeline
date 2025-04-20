@@ -1,0 +1,8 @@
+---
+title: Birth and Teachings of Buddha
+period: -563
+period_details: c. 563-483 BC
+category: Religion
+source: The Foundations of Buddhism - Rupert Gethin
+---
+Siddhartha Gautama, later known as the Buddha ("the awakened one"), was born into a noble family in Lumbini (modern Nepal). According to tradition, after witnessing suffering outside his sheltered palace life, he renounced his princely status to seek spiritual understanding. After years of ascetic practice and meditation, he attained enlightenment under the Bodhi tree at Bodh Gaya, developing the Middle Way philosophy that avoided both indulgence and extreme asceticism. The Buddha's core teachings include the Four Noble Truths (the reality of suffering, its cause in desire, the possibility of liberation, and the path to liberation) and the Eightfold Path (right view, intention, speech, action, livelihood, effort, mindfulness, and concentration). He established a monastic community (sangha) and spent decades teaching throughout northern India. Buddhism eventually spread throughout Asia, developing distinct traditions in South Asia, Southeast Asia, East Asia, and the Himalayan regions. As one of the world's major religions with approximately 500 million adherents today, Buddhism has profoundly influenced philosophy, psychology, art, literature, and social practices across Asia and, more recently, globally. Its emphasis on compassion, mindfulness, non-violence, and the cultivation of wisdom represents one of humanity's most significant spiritual traditions. 
