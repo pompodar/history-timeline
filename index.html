@@ -649,16 +649,23 @@ function parseDetailMarkdown(detailText) {
                 timelineMarker.classList.add('timeline-marker');
                 timelineMarker.setAttribute('data-detail-id', `detail-${index}`);
 
-                const timelineTitleContainer = document.createElement('div');
-                timelineTitleContainer.classList.add('timeline-title-container');
-
                 const timelineContent = document.createElement('div');
                 timelineContent.classList.add('timeline-content');
                 timelineContent.setAttribute('data-detail-id', `detail-${index}`); // Add data-detail-id here
 
+                const timelineTitleContainer = document.createElement('div');
+                timelineTitleContainer.classList.add('timeline-title-container');
+                
+                const timelineTitleContainerInner = document.createElement('div');
+                timelineTitleContainerInner.classList.add('flex', 'flex-col');
+
                 const timelineTitle = document.createElement('h3');
                 timelineTitle.classList.add('mb-1', 'font-semibold', 'text-xlg', 'text-yellow-600');
                 timelineTitle.textContent = item.title;
+
+                const timelinePeriod = document.createElement('p');
+                timelinePeriod.classList.add('text-lg', 'font-medium', 'text-gray-500');
+                timelinePeriod.textContent = item.period_details ? item.period_details : item.period;
 
                 const imageFilename = item.title.replace(/[^a-zA-Z0-9]/g, '') + ".png";
                 const imagePath = `timeline-data/images/${imageFilename}`;
@@ -666,12 +673,11 @@ function parseDetailMarkdown(detailText) {
                 timelineImage.src = imagePath;
                 timelineImage.alt = item.title;
 
-                timelineTitleContainer.appendChild(timelineTitle);
-                timelineTitleContainer.appendChild(timelineImage);
+                timelineTitleContainerInner.appendChild(timelineTitle);
+                timelineTitleContainerInner.appendChild(timelinePeriod);
 
-                const timelinePeriod = document.createElement('p');
-                timelinePeriod.classList.add('text-lg', 'font-medium', 'text-gray-500');
-                timelinePeriod.textContent = item.period_details ? item.period_details : item.period;
+                timelineTitleContainer.appendChild(timelineTitleContainerInner);
+                timelineTitleContainer.appendChild(timelineImage);
 
                 const timelineDetail = document.createElement('div');
                 timelineDetail.classList.add('timeline-detail');
@@ -682,7 +688,6 @@ function parseDetailMarkdown(detailText) {
                 timelineSource.textContent = `${item.source}`;
 
                 timelineContent.appendChild(timelineTitleContainer);
-                timelineContent.appendChild(timelinePeriod);
                 timelineContent.appendChild(timelineDetail);
                 // Append timelineSource after timelineDetail
                 timelineContent.appendChild(timelineSource);
