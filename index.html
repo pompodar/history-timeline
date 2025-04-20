@@ -452,7 +452,6 @@
 
         // --- Function to Load Timeline Data ---
         async function loadTimelineData() {
-            console.log('loadTimelineData() called');
             try {
                 const indexResponse = await fetch('timeline-data/timeline-index.json');
                 const indexData = await indexResponse.json();
@@ -467,8 +466,8 @@
                 // Sort the data by period before creating the timeline
                 allData.sort((a, b) => {
                     // Extract the numeric part of the period and handle BCE/CE
-                    const periodA = parsePeriod(a.period);
-                    const periodB = parsePeriod(b.period);
+                    const periodA = a.period;
+                    const periodB = b.period;                    
 
                     // Compare periods
                     if (periodA !== periodB) {
@@ -613,13 +612,11 @@ function parseDetailMarkdown(detailText) {
 
         // --- Function to Create Timeline Elements ---
         function createTimeline(data) {
-            console.log('createTimeline() called with:', data); // Debugging line
             timelineContainer.innerHTML = '<div class="timeline-line"></div>'; // Clear existing timeline
             const allCategories = new Set();
             const allTags = new Set();
 
             data.forEach((item, index) => {
-                console.log('Item:', item); // Debugging line
                 const timelineItem = document.createElement('div');
                 timelineItem.classList.add('timeline-item');
                 timelineItem.setAttribute('data-importance', item.importance);
@@ -731,27 +728,19 @@ function parseDetailMarkdown(detailText) {
             });
         }
         function filterByImportance(importanceLevel) {
-            console.log('filterByImportance() called with:', importanceLevel);
             currentImportanceLevel = importanceLevel;
             const timelineItems = timelineContainer.querySelectorAll('.timeline-item');
-            timelineItems.forEach(item => {
-                console.log(item);
-                
+            timelineItems.forEach(item => {                
                 const itemImportance = parseInt(item.getAttribute('data-importance'));
-                if (itemImportance <= importanceLevel) {
-                    console.log('Showing item:', item, 1);
-                    
+                if (itemImportance <= importanceLevel) {                    
                     item.classList.remove('hidden');
                 } else {
-                    console.log('Hiding item:', item, 2);
-
                     item.classList.add('hidden');
                 }
             });
         }
 
         function switchToImportance(importanceLevel) {
-            console.log('switchToImportance() called with:', importanceLevel);
             filterByImportance(importanceLevel);
         }
 
