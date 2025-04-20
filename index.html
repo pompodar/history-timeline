@@ -204,6 +204,22 @@
             border-color: transparent #ffffff transparent transparent; /* Arrow color matches content bg */
         }
 
+        .timeline-title-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between; /* Distribute space between title and image */
+        }
+
+        .timeline-title-container h3 {
+            order: 0;
+            margin-right: 10px; /* Add some space between the title and the image */
+        }
+
+        .timeline-title-container img {
+            max-width: 100px; /* Adjust the maximum width of the image as needed */
+            max-height: 100px; /* Adjust the maximum height of the image as needed */
+        }
+
         .indented-paragraph {
             text-indent: 1.5em; /* Adjust the indentation as needed */
         }
@@ -633,6 +649,9 @@ function parseDetailMarkdown(detailText) {
                 timelineMarker.classList.add('timeline-marker');
                 timelineMarker.setAttribute('data-detail-id', `detail-${index}`);
 
+                const timelineTitleContainer = document.createElement('div');
+                timelineTitleContainer.classList.add('timeline-title-container');
+
                 const timelineContent = document.createElement('div');
                 timelineContent.classList.add('timeline-content');
                 timelineContent.setAttribute('data-detail-id', `detail-${index}`); // Add data-detail-id here
@@ -640,6 +659,15 @@ function parseDetailMarkdown(detailText) {
                 const timelineTitle = document.createElement('h3');
                 timelineTitle.classList.add('mb-1', 'font-semibold', 'text-xlg', 'text-yellow-600');
                 timelineTitle.textContent = item.title;
+
+                const imageFilename = item.title.replace(/[^a-zA-Z0-9]/g, '') + ".png";
+                const imagePath = `timeline-data/images/${imageFilename}`;
+                const timelineImage = document.createElement('img');
+                timelineImage.src = imagePath;
+                timelineImage.alt = item.title;
+
+                timelineTitleContainer.appendChild(timelineTitle);
+                timelineTitleContainer.appendChild(timelineImage);
 
                 const timelinePeriod = document.createElement('p');
                 timelinePeriod.classList.add('text-lg', 'font-medium', 'text-gray-500');
@@ -653,7 +681,7 @@ function parseDetailMarkdown(detailText) {
                 timelineSource.classList.add('timeline-source');
                 timelineSource.textContent = `${item.source}`;
 
-                timelineContent.appendChild(timelineTitle);
+                timelineContent.appendChild(timelineTitleContainer);
                 timelineContent.appendChild(timelinePeriod);
                 timelineContent.appendChild(timelineDetail);
                 // Append timelineSource after timelineDetail
