@@ -1,5 +1,5 @@
 ---
-title: Creation of the Universe
+title: Creation of the Universe According to bible
 period: -5509
 period_details: 5,509-3,761 BC
 category: Ancient Israel

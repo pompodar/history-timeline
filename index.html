@@ -1,6 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet"><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,15 +7,21 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-    
+<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <style>
         /* Custom Base Styles */
         body {
-             font-family: "Indie Flower", cursive;
+            font-family: "Indie Flower", cursive;
             font-weight: 400;
             font-style: normal;
             font-size: 1.3rem;
             background-color: #f0f4f8; /* Light background */
+        }
+
+        b {
+            font-family: "PT Serif", sans-serif;
+            font-size: 14px;
+            font-weight: 700; /* Bold text */
         }
 
         /* --- Base Styles (Common to both layouts) --- */
@@ -95,6 +98,15 @@
         #timeline-container .hidden {
             display: none;
         }
+
+        .timeline-image {
+            width: 60px; 
+            height: 60px;
+            border-radius: 50%;
+            object-fit: cover;  
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);      
+        }
+
         .select-wrapper {
             position: relative;
             display: inline-block;
@@ -135,7 +147,6 @@
             border-right: 5px solid transparent;
             border-top: 5px solid #374151; /* Arrow color */
         }
-
 
         /* --- Vertical Layout Styles --- */
         .timeline-container.is-vertical {
@@ -678,6 +689,8 @@ function parseDetailMarkdown(detailText) {
                 const timelineImage = document.createElement('img');
                 timelineImage.src = imagePath;
                 timelineImage.alt = item.title;
+                timelineImage.classList.add('timeline-image');
+
 
                 timelineTitleContainerInner.appendChild(timelineTitle);
                 timelineTitleContainerInner.appendChild(timelinePeriod);
