@@ -1,4 +1,3 @@
-alert(2);
 const timelineContainer = document.getElementById("timeline-container");
 const verticalBtn = document.querySelector(".vertical-btn");
 const horizontalBtn = document.querySelector(".horizontal-btn");
