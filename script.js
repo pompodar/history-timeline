@@ -128,6 +128,9 @@ async function loadTimelineData() {
     try {
         const indexResponse = await fetch("timeline-data/timeline-index.json");
         const indexData = await indexResponse.json();
+
+        console.log(indexData, "indexData");
+
         const allData = [];
         for (const item of indexData) {
             const fileResponse = await fetch(
