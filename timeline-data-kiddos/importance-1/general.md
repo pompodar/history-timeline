@@ -1,18 +1,143 @@
 ---
-title: Neolithic Agricultural Revolution
-period: -10000
-period_details: 10,000-3,000 BCE
-category: Economics
-source: Against the Grain. A Deep History of the Earliest States - James C. Scott
+title: General
+period: -138000000
+period_details: 138000000 BCE-2025
+category: Universe
+source: 
 ---
-The Neolithic Agricultural Revolution, humanity's gradual transition from hunting and gathering to settled farming, represents perhaps the most profound transformation in human history, fundamentally altering our species' relationship with the natural environment and establishing foundations for subsequent civilizational developments. 
+# Історія Всесвіту та людства: від Великого вибуху до сьогодення
 
-This process occurred independently in multiple world regions: the Fertile Crescent (wheat, barley, sheep, goats) around 10,000 BCE, East Asia (rice, millet, pigs) by 7500 BCE, sub-Saharan Africa (sorghum, millet) by 5000 BCE, and the Americas (maize, potatoes, beans) by 4000 BCE. 
+## Народження Всесвіту та формування космічних структур
 
-Through selective breeding over generations, humans transformed wild plants and animals into domesticated varieties with characteristics favoring human use—larger seeds, predictable growth patterns, docile behavior, and increased meat production. This transition created food surpluses enabling population growth, occupational specialization beyond food production, and permanent settlements that eventually developed into cities. 
+### Великий вибух (близько 13,8 мільярдів років тому)
+Все почалося з надзвичайно щільної та гарячої точки, яка раптово почала розширюватися. Цей момент народження нашого Всесвіту називається Великим вибухом. Насправді це не був "вибух" у звичайному розумінні — це було розширення самого простору-часу з неймовірно малої точки. В перші миті після Великого вибуху температура була такою високою, що навіть елементарні частинки ще не могли сформуватися.
 
-Agricultural subsistence dramatically increased human populations despite requiring significantly more labor and often providing less dietary diversity than foraging. Permanent settlements facilitated revolutionary technologies including pottery, metallurgy, and eventually writing, while growing populations created unprecedented social complexity requiring new governance forms. 
+> **Джерело:** Weinberg, S. (2015). *The First Three Minutes: A Modern View of the Origin of the Universe*. Basic Books.
 
-Agriculture profoundly transformed landscapes through deforestation, irrigation, terracing, and pest control, while domesticated species expanded dramatically at wild species' expense. Socially, agricultural societies developed more complex hierarchies, gender specialization, property concepts, and eventually state structures with elites controlling surplus production. The revolution's health consequences proved mixed: while populations expanded dramatically, archaeological evidence reveals decreased stature, increased infectious disease from dense settlements and animal proximity, and dental deterioration from carbohydrate-rich diets. This transformation progressed gradually — most early farming communities maintained significant hunting and gathering alongside cultivation—yet proved revolutionary over millennia. Agriculture's adoption ultimately proved inexorable despite its labor requirements, as farming populations gradually displaced hunter-gatherers through demographic advantages and territorial expansion. 
+### Первинний нуклеосинтез (від 3 хвилин до 20 хвилин після Великого вибуху)
+Коли Всесвіт трохи охолов, почали формуватися перші елементи: водень, гелій і трішки літію. Більшість речовини Всесвіту — це саме водень і гелій, створені в цей період. Важчі елементи тоді ще не могли утворитися — для цього потрібні були зорі.
 
-The Agricultural Revolution thus represents humanity's fundamental metabolic shift from working within natural ecosystems to actively managing and transforming them, creating preconditions for urban civilization, social stratification, and eventually state formation while establishing patterns of environmental modification that have accelerated dramatically in subsequent millennia. 
+> **Джерело:** Ryden, B. (2016). *Introduction to Cosmology*. Cambridge University Press.
+
+### Темні віки Всесвіту (від 380 000 років до 150 мільйонів років після Великого вибуху)
+Після того як Всесвіт достатньо охолов, електрони змогли з'єднатися з ядрами, утворюючи нейтральні атоми. Світло, яке раніше постійно розсіювалося вільними електронами, тепер могло вільно подорожувати. Це випромінювання ми досі спостерігаємо як космічне мікрохвильове фонове випромінювання. Проте самого світла від зірок ще не було — Всесвіт перебував у "темних віках".
+
+> **Джерело:** Loeb, A., & Furlanetto, S. R. (2013). *The First Galaxies in the Universe*. Princeton University Press.
+
+### Перші галактики і зорі (близько 400 мільйонів років після Великого вибуху)
+Під впливом гравітації газ почав збиратися у хмари, які поступово стискалися і формували перші зорі. Ці перші зорі були величезними та яскравими, вони швидко жили і вмирали, виробляючи перші важкі елементи. Зорі об'єднувалися у перші галактики — гігантські системи із зірок, газу і пилу.
+
+> **Джерело:** Bromm, V., & Larson, R. B. (2004). *The First Stars*. Annual Review of Astronomy and Astrophysics, 42, 79-118.
+
+### Формування Сонячної системи (близько 4,6 мільярдів років тому)
+Наша Сонячна система виникла з велетенської хмари газу і пилу. В центрі цієї хмари утворилося Сонце, а з залишків матеріалу сформувалися планети, включаючи нашу Землю. Спочатку Земля була розпеченою кулею без атмосфери і океанів.
+
+> **Джерело:** Chambers, J. E., & Halliday, A. N. (2014). *The Origin of the Solar System*. In H. Beuther, R. S. Klessen, C. P. Dullemond, & T. Henning (Eds.), *Protostars and Planets VI*. University of Arizona Press.
+
+## Розвиток життя на Землі
+
+### Поява перших живих організмів (близько 3,5-4 мільярдів років тому)
+Після охолодження Землі та формування океанів у них з'явилися перші примітивні одноклітинні організми. Вони були дуже простими — набагато простішими за сучасні бактерії, але вже мали здатність до розмноження та еволюції.
+
+> **Джерело:** Knoll, A. H. (2015). *Life on a Young Planet: The First Three Billion Years of Evolution on Earth*. Princeton University Press.
+
+### Велика киснева подія (близько 2,4-2,0 мільярди років тому)
+Поява фотосинтезу у деяких бактерій призвела до накопичення кисню в атмосфері Землі. Цей процес називають "Великою кисневою подією". Кисень був токсичним для багатьох тодішніх організмів, але згодом дозволив розвинутися складнішим формам життя, які використовували кисень для отримання енергії.
+
+> **Джерело:** Lyons, T. W., Reinhard, C. T., & Planavsky, N. J. (2014). *The rise of oxygen in Earth's early ocean and atmosphere*. Nature, 506(7488), 307-315.
+
+### Кембрійський вибух (близько 541-485 мільйонів років тому)
+За доволі короткий за геологічними мірками час з'явилася величезна кількість різноманітних багатоклітинних організмів, включаючи предків більшості сучасних типів тварин. Цей період називають "Кембрійським вибухом". Саме тоді вперше з'явилися тварини з твердими скелетами, очима та іншими складними органами.
+
+> **Джерело:** Marshall, C. R. (2006). *Explaining the Cambrian "Explosion" of Animals*. Annual Review of Earth and Planetary Sciences, 34, 355-384.
+
+### Вихід життя на сушу (близько 500-400 мільйонів років тому)
+Спочатку всі організми жили лише у воді. Поступово рослини, а за ними і тварини, почали пристосовуватися до життя на суші. Перші наземні рослини не мали коренів і листя, а перші наземні тварини були схожі на багатоніжок і скорпіонів.
+
+> **Джерело:** Kenrick, P., & Crane, P. R. (1997). *The origin and early evolution of plants on land*. Nature, 389(6646), 33-39.
+
+### Ера динозаврів (близько 245-66 мільйонів років тому)
+Протягом мезозойської ери динозаври були домінуючими тваринами на Землі. Вони були надзвичайно різноманітними — від маленьких, розміром з курку, до величезних, довжиною понад 30 метрів. В той час також з'явилися перші птахи та ссавці, хоча останні були переважно малими.
+
+> **Джерело:** Brusatte, S. L. (2018). *The Rise and Fall of the Dinosaurs: A New History of a Lost World*. William Morrow.
+
+### Вимирання динозаврів (близько 66 мільйонів років тому)
+Астероїд діаметром приблизно 10-15 кілометрів зіткнувся з Землею в регіоні сучасного півострова Юкатан у Мексиці. Це спричинило глобальні пожежі, цунамі, землетруси та викинуло в атмосферу величезну кількість пилу, який закрив сонячне світло на роки. Більшість динозаврів вимерли, що дало можливість ссавцям зайняти їхнє місце.
+
+> **Джерело:** Schulte, P., et al. (2010). *The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous-Paleogene Boundary*. Science, 327(5970), 1214-1218.
+
+### Еволюція приматів і поява людини (від 65 мільйонів років тому до сьогодні)
+Після вимирання динозаврів ссавці почали займати різноманітні екологічні ніші. Близько 65-55 мільйонів років тому з'явилися перші примати. Людиноподібні мавпи відділилися від інших приматів близько 25-20 мільйонів років тому. Перші гомініди — предки людини — виникли в Африці приблизно 6-7 мільйонів років тому.
+
+> **Джерело:** Stringer, C. (2012). *The Origin of Our Species*. Penguin UK.
+
+## Історія людства
+
+### Поява Homo sapiens (близько 300 000 років тому)
+Наш вид, Homo sapiens (людина розумна), з'явився в Африці. Протягом тривалого часу люди жили невеликими групами мисливців-збирачів. Вони використовували кам'яні знаряддя, навчилися контролювати вогонь і розвинули складну мову та соціальну структуру.
+
+> **Джерело:** Harari, Y. N. (2015). *Sapiens: A Brief History of Humankind*. Harper.
+
+### Сільськогосподарська революція (близько 12 000-10 000 років тому)
+Люди навчилися вирощувати рослини та одомашнювати тварин у різних частинах світу незалежно один від одного. Це дозволило створювати надлишки їжі, що призвело до збільшення населення та появи перших постійних поселень. Поступово ці поселення перетворилися на міста.
+
+> **Джерело:** Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies*. W. W. Norton & Company.
+
+### Перші цивілізації (близько 5 000-3 000 років до н.е.)
+У долинах великих річок — Нілу, Тигру і Євфрату, Інду та Хуанхе — виникли перші цивілізації: Стародавній Єгипет, Месопотамія, цивілізація долини Інду та Стародавній Китай. Вони розвинули писемність, складні соціальні ієрархії, монументальну архітектуру та початкові форми науки і математики.
+
+> **Джерело:** Trigger, B. G. (2003). *Understanding Early Civilizations: A Comparative Study*. Cambridge University Press.
+
+### Античність (VIII ст. до н.е. - V ст. н.е.)
+Стародавня Греція та Рим створили основу для західної цивілізації у сферах філософії, мистецтва, літератури, політики та науки. Вони розвинули демократію, республіканське правління, систематичну філософію та наукове мислення.
+
+> **Джерело:** Cartledge, P. (2009). *Ancient Greece: A History in Eleven Cities*. Oxford University Press.
+
+### Середньовіччя (V-XV ст.)
+Після падіння Західної Римської імперії Європа вступила в період, який зараз називають Середньовіччям. Цей час характеризувався феодальною системою, сильним впливом церкви та розвитком університетів. В інших частинах світу розвивалися потужні цивілізації — Візантія, Ісламський халіфат, династії Китаю, імперії Америки та Африки.
+
+> **Джерело:** Wickham, C. (2016). *Medieval Europe*. Yale University Press.
+
+### Відродження та Просвітництво (XIV-XVIII ст.)
+Відродження почалося в Італії і поширилося на всю Європу. Це був період відновлення інтересу до античної культури, розвитку мистецтва, науки та гуманістичних ідей. Просвітництво продовжило цей поступ, підкреслюючи значення розуму, науки та індивідуальних прав.
+
+> **Джерело:** Burke, P. (2014). *The Italian Renaissance: Culture and Society in Italy*. Princeton University Press.
+
+### Промислова революція (XVIII-XIX ст.)
+Технологічні інновації, зокрема парова машина, механізація виробництва та нові методи в металургії, призвели до радикальних змін у способі виробництва товарів. Промислова революція розпочалася у Великій Британії та поступово поширилася на інші країни. Вона призвела до урбанізації, змін у соціальній структурі суспільства та зростання продуктивності праці.
+
+> **Джерело:** Allen, R. C. (2009). *The British Industrial Revolution in Global Perspective*. Cambridge University Press.
+
+### Світові війни та холодна війна (1914-1991)
+
+#### Перша світова війна (1914-1918)
+Конфлікт між двома блоками держав: Антантою (Велика Британія, Франція, Російська імперія, згодом США та інші) та Центральними державами (Німецька імперія, Австро-Угорська імперія, Османська імперія, Болгарія). Війна призвела до загибелі мільйонів людей, краху чотирьох імперій та перекроювання карти Європи.
+
+> **Джерело:** Keegan, J. (1998). *The First World War*. Hutchinson.
+
+#### Друга світова війна (1939-1945)
+Найбільший і найкривавіший конфлікт в історії людства, який почався з вторгнення нацистської Німеччини в Польщу. У війні брали участь більшість держав світу, включаючи всі великі держави, які сформували два протилежні військові альянси: союзників і країн осі. Війна призвела до 70-85 мільйонів жертв, Голокосту, атомного бомбардування Хіросіми та Нагасакі, та глибоких змін у політичній карті світу.
+
+> **Джерело:** Beevor, A. (2012). *The Second World War*. Weidenfeld & Nicolson.
+
+#### Холодна війна (1947-1991)
+Період геополітичної напруженості між СРСР та його союзниками (Східний блок) і США та їхніми союзниками (Західний блок) після Другої світової війни. Хоча супердержави ніколи безпосередньо не воювали одна проти одної, вони протистояли в ідеологічних конфліктах, гонці озброєнь, технологічних змаганнях і регіональних конфліктах по всьому світу.
+
+> **Джерело:** Gaddis, J. L. (2005). *The Cold War: A New History*. Penguin Books.
+
+### Розпад СРСР (1991)
+Радянський Союз, одна з двох наддержав часів холодної війни, припинив існування в грудні 1991 року. Цьому передували роки економічного застою, політика "перебудови" і "гласності" Михайла Горбачова, національні рухи в республіках СРСР та невдала спроба державного перевороту в серпні 1991 року. На місці СРСР утворилося 15 незалежних держав, включаючи Україну та Росію.
+
+> **Джерело:** Plokhy, S. (2014). *The Last Empire: The Final Days of the Soviet Union*. Basic Books.
+
+### Російсько-українська війна (з 2014)
+Конфлікт між Україною та Росією розпочався в лютому 2014 року з незаконної анексії Криму Росією та підтримки сепаратистських рухів на сході України. У лютому 2022 року Росія розпочала повномасштабне вторгнення в Україну, що призвело до найбільшого збройного конфлікту в Європі з часів Другої світової війни. Війна спричинила тисячі жертв, мільйони біженців та руйнування українських міст, а також серйозні геополітичні та економічні наслідки у всьому світі.
+
+> **Джерело:** Plokhy, S. (2021). *The Frontline: Essays on Ukraine's Past and Present*. Harvard Ukrainian Research Institute.
+> **Джерело:** D'Anieri, P. (2019). *Ukraine and Russia: From Civilized Divorce to Uncivil War*. Cambridge University Press.
+
+## Висновок
+
+Від Великого вибуху до сучасних воєн — історія Всесвіту та людства є неймовірною подорожжю. Ми бачимо, як з простих атомів водню та гелію, створених після Великого вибуху, утворилися галактики, зорі та планети. На одній з цих планет виникло життя, яке еволюціонувало від простих одноклітинних організмів до складних форм, включаючи людей. Люди створили цивілізації, розвинули науку і технології, але також воювали між собою.
+
+Вивчаючи цю історію, ми можемо краще зрозуміти наше місце у Всесвіті та відповідальність, яку маємо за майбутнє нашої планети та людства.
