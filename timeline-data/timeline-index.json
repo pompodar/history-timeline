@@ -1,7 +1,7 @@
 [
   {
     "importance": 1,
-    "filename": "big-bang.md"
+    "filename": "big-bang.json"
   },
   {
     "importance": 1,
@@ -9,19 +9,19 @@
   },
   {
     "importance": 1,
-    "filename": "american-revolution.md"
+    "filename": "american-revolution.json"
   },
 
   {
     "importance": 2,
-    "filename": "creation-of-universe-according-to-bible.md"
+    "filename": "creation-of-universe-according-to-bible.json"
   },
   {
     "importance": 2,
-    "filename": "call-of-abraham.md"
+    "filename": "call-of-abraham.json"
   },
   {
     "importance": 2,
-    "filename": "rise-of-ancient-rome.md"
+    "filename": "rise-of-ancient-rome.json"
   }
 ]
