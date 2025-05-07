@@ -1,27 +1,27 @@
 [
   {
     "importance": 1,
-    "filename": "big-bang.json"
+    "filename": "big-bang.text"
   },
   {
     "importance": 1,
-    "filename": "agricultural-revolution.json"
+    "filename": "agricultural-revolution.text"
   },
   {
     "importance": 1,
-    "filename": "american-revolution.json"
+    "filename": "american-revolution.text"
   },
 
   {
     "importance": 2,
-    "filename": "creation-of-universe-according-to-bible.json"
+    "filename": "creation-of-universe-according-to-bible.text"
   },
   {
     "importance": 2,
-    "filename": "call-of-abraham.json"
+    "filename": "call-of-abraham.text"
   },
   {
     "importance": 2,
-    "filename": "rise-of-ancient-rome.json"
+    "filename": "rise-of-ancient-rome.text"
   }
 ]
