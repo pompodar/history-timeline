@@ -1,7 +1,7 @@
 ---
 title: Загально
 period: -138000000
-period_details: 138000000 BCE-2025
+period_details: 138000000 до н. е. - 2025
 category: Universe
 source: 
 ---
