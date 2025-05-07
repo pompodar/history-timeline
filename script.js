@@ -374,7 +374,11 @@ function createTimeline(data) {
             ? item.period_details
             : item.period;
 
-        const imageFilename = item.title.replace(/[^a-zA-Z0-9]/g, "") + ".png";
+        console.log(item);
+
+        const imageFilename =
+            item.filename.replace(/[^a-zA-Z0-9]/g, "").replace("md", "") +
+            ".png";
         const imagePath = `timeline-data/images/${imageFilename}`;
         const timelineImage = document.createElement("img");
         timelineImage.src = imagePath;
