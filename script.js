@@ -376,9 +376,7 @@ function createTimeline(data) {
 
         console.log(item);
 
-        const imageFilename =
-            item.filename.replace(/[^a-zA-Z0-9]/g, "").replace("md", "") +
-            ".png";
+        const imageFilename = item.filename.replace(".md", "") + ".png";
         const imagePath = `timeline-data/images/${imageFilename}`;
         const timelineImage = document.createElement("img");
         timelineImage.src = imagePath;
